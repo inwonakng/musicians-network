@@ -39,7 +39,7 @@ artist,l_artist_url,url = Tables('artist','l_artist_url','url')
 
 
 #%%
-def get_spotify_id(ids,round_i):
+def get_spotify_id(ids):
             # getting spotify id
     query = Query().from_(
                 l_artist_url).join(
@@ -58,16 +58,13 @@ def get_spotify_id(ids,round_i):
             spo_ids[id] = spotify[0].split('artist/')[1]
 
     ids['spotifyid'] = ids.id.apply(lambda x: spo_ids[x] if x in spo_ids else np.nan)
-    ids.to_csv(f'./data/fromtop1000/round{round_i}.csv',index=False)
     return ids
 
 
 def get_spotify_data(ids,round_i):
-# ids = pd.read_csv('./data/fromtop1000/round4.csv')
-
     before = pd.DataFrame()
     if round_i:
-        before = pd.read_csv(f'./data/fromtop1000/SPO_round{round_i-1}.csv')
+        before = pd.read_csv(f'./data/SPO_round{round_i-1}.csv')
 
     valid = ids[~ids.spotifyid.isnull() & ~ids.gid.isin(before.gid)]
     valid.reset_index(drop=True,inplace=True)
@@ -87,17 +84,14 @@ def get_spotify_data(ids,round_i):
     
     ret = pd.concat([valid,total[['genres','popularity','followers.total']]],axis=1)
     ret = pd.concat([before,ret])
-    ret.to_csv(f'./data/fromtop1000/SPO_round{round_i}.csv',index=False)
+    ret.to_csv(f'./data/SPO_round{round_i}.csv',index=False)
     return ret 
 
-
-
-
 # %%
-ids = pd.read_csv('./data/fromtop1000/SPO_round14.csv')
-sample = ids.spotifyid.values[0]
-r = session.get(url=f'{Q_ARTISTS}/{sample}/albums',headers=HEADER)
-dat = json.loads(r.content)
-albums = pd.json_normalize(dat['items']).id.values
-r = session.get(url=f'{Q_ALBUMS}?ids={",".join(albums)}',headers=HEADER)
+# ids = pd.read_csv('./data/fromtop1000/SPO_round14.csv')
+# sample = ids.spotifyid.values[0]
+# r = session.get(url=f'{Q_ARTISTS}/{sample}/albums',headers=HEADER)
+# dat = json.loads(r.content)
+# albums = pd.json_normalize(dat['items']).id.values
+# r = session.get(url=f'{Q_ALBUMS}?ids={",".join(albums)}',headers=HEADER)
 # %%

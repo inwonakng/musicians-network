@@ -11,17 +11,13 @@ cur = conn.cursor()
 # %%
 
 def get_features(id):
-    # id = '9fff2f8a-21e6-47de-a2b8-7f449929d43f'
-    # name = 'Drake'
-
     base = f'./data/artist_songs/{id}'
-
-    if not os.path.exists(base): os.mkdir(base)
-    # else: return
-
+    if not os.path.exists(base): 
+        print('gonna make ')
+        os.mkdir(base)
+    
     artist,artist_credit_name,release_group,release,release_label,label = Tables('artist','artist_credit_name','release_group','release','release_label','label')
 
-    #%%
     credits = Query().from_(
                 artist_credit_name).select(
                 artist_credit_name.artist_credit).where(
@@ -56,7 +52,7 @@ def get_features(id):
                     ).select(
                         artist.id,
                         artist.name,
-                        artist.gid,
+                        # artist.gid,
                         artist_credit_name.artist_credit,
                         release_group.id,
                         release_group.name,
@@ -68,7 +64,7 @@ def get_features(id):
     cur.execute(str(songs))
     val = cur.fetchall()
 
-    features = pd.DataFrame(val,columns=['id','name','gid','credit','songid','song','labelid','label'])
+    features = pd.DataFrame(val,columns=['id','name','credit','songid','song','labelid','label'])
     features.labelid = features.labelid.replace(np.nan,-1).astype(int)
     features.id = features.id.astype(int)
     return features

@@ -1,0 +1,997 @@
+id,name,type,original_name,name_match
+600808,Drake,Person,Drake,1.0
+706819,Ed Sheeran,Person,Ed Sheeran,1.0
+823336,Ariana Grande,Person,Ariana Grande,1.0
+1492430,Bad Bunny,Person,Bad Bunny,1.0
+796889,The Weeknd,Person,The Weeknd,1.0
+1258907,Post Malone,Person,Post Malone,1.0
+634509,Justin Bieber,Person,Justin Bieber,1.0
+946,Eminem,Person,Eminem,1.0
+399541,Taylor Swift,Person,Taylor Swift,1.0
+803820,J Balvin,Person,J Balvin,1.0
+1025840,BTS,Group,BTS,1.0
+127482,Kanye West,Person,Kanye West,1.0
+1361541,Billie Eilish,Person,Billie Eilish,1.0
+1048120,Ozuna,Person,Ozuna,1.0
+1445809,Khalid,Person,Khalid,1.0
+1379442,XXXTENTACION,Person,XXXTENTACION,1.0
+1633635,Juice WRLD,Person,Juice WRLD,1.0
+2129,Coldplay,Group,Coldplay,1.0
+262731,Rihanna,Person,Rihanna,1.0
+894303,Travis Scott,Person,Travis Scott,1.0
+870909,Imagine Dragons,Group,Imagine Dragons,1.0
+66179,Maroon 5,Group,Maroon 5,1.0
+1290968,Dua Lipa,Person,Dua Lipa,1.0
+1137257,Shawn Mendes,Person,Shawn Mendes,1.0
+204321,Calvin Harris,Person,Calvin Harris,1.0
+30471,David Guetta,Person,David Guetta,1.0
+119241,Daddy Yankee,Person,Daddy Yankee,1.0
+529750,Sam Smith,Person,Sam Smith,1.0
+641206,Bruno Mars,Person,Bruno Mars,1.0
+1096838,The Chainsmokers,Group,The Chainsmokers,1.0
+192,Queen,Group,Queen,1.0
+762201,Kendrick Lamar,Person,Kendrick Lamar,1.0
+422058,Beyoncé,Person,Beyoncé,1.0
+240486,Chris Brown,Person,Chris Brown,1.0
+800841,Future,Person,Future,1.0
+754656,One Direction,Group,One Direction,1.0
+100154,Sia,Person,Sia,1.0
+624088,Nicki Minaj,Person,Nicki Minaj,1.0
+531923,Lady Gaga,Person,Lady Gaga,1.0
+1197096,Halsey,Person,Halsey,1.0
+527517,Selena Gomez,Person,Selena Gomez,1.0
+650607,J. Cole,Person,J. Cole,1.0
+1486832,Anuel AA,Person,Anuel AA,1.0
+303,The Beatles,Group,The Beatles,1.0
+839065,twenty one pilots,Group,Twenty One Pilots,0.8235294117647058
+1053251,Maluma,Person,Maluma,1.0
+1084840,Kygo,Person,Kygo,1.0
+807928,Marshmello,Person,Marshmello,1.0
+610590,Avicii,Person,Avicii,1.0
+11330,Linkin Park,Group,Linkin Park,1.0
+1241266,Lil Uzi Vert,Person,Lil Uzi Vert,1.0
+315753,Katy Perry,Person,Katy Perry,1.0
+939035,Camila Cabello,Person,Camila Cabello,1.0
+497084,Adele,Person,Adele,1.0
+828613,Lana Del Rey,Person,Lana Del Rey,1.0
+641496,Jason Derulo,Person,Jason Derulo,1.0
+813933,Farruko,Person,Farruko,1.0
+527516,Demi Lovato,Person,Demi Lovato,1.0
+12389,Red Hot Chili Peppers,Group,Red Hot Chili Peppers,1.0
+148108,Nicky Jam,Person,Nicky Jam,1.0
+1332,Shakira,Person,Shakira,1.0
+255826,Arctic Monkeys,Group,Arctic Monkeys,1.0
+997729,Martin Garrix,Person,Martin Garrix,1.0
+867864,G‐Eazy,Person,G-Eazy,0.8333333333333334
+623730,Major Lazer,Group,Major Lazer,1.0
+243617,Panic! at the Disco,Group,Panic! At The Disco,0.8947368421052632
+359330,Miley Cyrus,Person,Miley Cyrus,1.0
+410667,OneRepublic,Group,OneRepublic,1.0
+519,Michael Jackson,Person,Michael Jackson,1.0
+137803,Pitbull,Person,Pitbull,1.0
+656090,Ellie Goulding,Person,Ellie Goulding,1.0
+1342385,Cardi B,Person,Cardi B,1.0
+1080570,Charlie Puth,Person,Charlie Puth,1.0
+754692,Harry Styles,Person,Harry Styles,1.0
+1290934,Sebastián Yatra,Person,Sebastian Yatra,0.9333333333333332
+463597,Wiz Khalifa,Person,Wiz Khalifa,1.0
+1738027,Rauw Alejandro,Person,Rauw Alejandro,1.0
+57186,Lil Wayne,Person,Lil Wayne,1.0
+1493482,KAROL G,Person,KAROL G,1.0
+1513023,DaBaby,Person,DaBaby,1.0
+942935,Logic,Person,Logic,1.0
+112461,Fall Out Boy,Group,Fall Out Boy,1.0
+1026090,Migos,Group,Migos,1.0
+998368,Young Thug,Person,Young Thug,1.0
+153653,Diplo,Person,Diplo,1.0
+531656,Tyga,Person,Tyga,1.0
+1277206,21 Savage,Person,21 Savage,1.0
+1313031,Alan Walker,Person,Alan Walker,1.0
+33563,John Mayer,Person,John Mayer,1.0
+1557563,Sech,Person,Sech,1.0
+93,Metallica,Group,Metallica,1.0
+1554753,Lil Baby,Person,Lil Baby,1.0
+309011,Macklemore,Person,Macklemore,1.0
+754693,ZAYN,Person,ZAYN,1.0
+9751,P!nk,Person,P!nk,1.0
+923140,DJ Snake,Person,DJ Snake,1.0
+768034,Zedd,Person,Zedd,1.0
+1358998,Lauv,Person,Lauv,1.0
+765110,Mac Miller,Person,Mac Miller,1.0
+933991,James Arthur,Person,James Arthur,1.0
+838181,Little Mix,Group,Little Mix,1.0
+1852738,Pop Smoke,Person,Pop Smoke,1.0
+1352,AC/DC,Group,AC/DC,1.0
+1372423,Lil Peep,Person,Lil Peep,1.0
+1669618,Myke Towers,Person,Myke Towers,1.0
+1088096,Robin Schulz,Person,Robin Schulz,1.0
+981199,5 Seconds of Summer,Group,5 Seconds of Summer,1.0
+838288,A$AP Rocky,Person,A$AP Rocky,1.0
+1287085,Kodak Black,Person,Kodak Black,1.0
+1404376,A Boogie Wit da Hoodie,Person,A Boogie Wit da Hoodie,1.0
+1180526,Doja Cat,Person,Doja Cat,1.0
+1489322,Trippie Redd,Person,Trippie Redd,1.0
+55795,Justin Timberlake,Person,Justin Timberlake,1.0
+518244,NF,Person,NF,1.0
+825406,Romeo Santos,Person,Romeo Santos,1.0
+966690,Metro Boomin,Person,Metro Boomin,1.0
+353670,DJ Khaled,Person,DJ Khaled,1.0
+871338,Clean Bandit,Group,Clean Bandit,1.0
+964089,Zara Larsson,Person,Zara Larsson,1.0
+796562,Frank Ocean,Person,Frank Ocean,1.0
+510,Green Day,Group,Green Day,1.0
+232732,Bob Marley & The Wailers,Group,Bob Marley & The Wailers,1.0
+1737262,Anne-Marie,Person,Anne-Marie,1.0
+959374,Bebe Rexha,Person,Bebe Rexha,1.0
+3113,Enrique Iglesias,Person,Enrique Iglesias,1.0
+191988,Tiësto,Person,Tiësto,1.0
+1489317,Lewis Capaldi,Person,Lewis Capaldi,1.0
+191,Pink Floyd,Group,Pink Floyd,1.0
+1318,Luis Miguel,Person,Luis Miguel,1.0
+1116073,blackbear,Person,blackbear,1.0
+1239664,Gunna,Person,Gunna,1.0
+53808,Luis Fonsi,Person,Luis Fonsi,1.0
+10910,Black Eyed Peas,Group,Black Eyed Peas,1.0
+459158,Flo Rida,Person,Flo Rida,1.0
+1258878,Ty Dolla $ign,Person,Ty Dolla $ign,1.0
+825,The Rolling Stones,Group,The Rolling Stones,1.0
+54,Nirvana,Group,Nirvana,1.0
+236,Elton John,Person,Elton John,1.0
+77944,Michael Bublé,Person,Michael Bublé,1.0
+167,JAY‐Z,Person,JAY-Z,0.8
+1480487,YoungBoy Never Broke Again,Person,YoungBoy Never Broke Again,1.0
+1798194,Lil Nas X,Person,Lil Nas X,1.0
+1317190,Jonas Blue,Person,Jonas Blue,1.0
+1396704,BLACKPINK,Group,BLACKPINK,1.0
+767971,"Tyler, the Creator",Person,"Tyler, The Creator",0.9444444444444444
+1014605,Russ,Person,Russ,1.0
+1440,Guns N’ Roses,Group,Guns N' Roses,0.9230769230769232
+299,Fleetwood Mac,Group,Fleetwood Mac,1.0
+812889,Bastille,Group,Bastille,1.0
+791,Britney Spears,Person,Britney Spears,1.0
+830986,Machine Gun Kelly,Person,Machine Gun Kelly,1.0
+680671,Childish Gambino,Person,Childish Gambino,1.0
+450754,Big Sean,Person,Big Sean,1.0
+997433,SZA,Person,SZA,1.0
+1241665,Alessia Cara,Person,Alessia Cara,1.0
+998962,Anitta,Person,Anitta,1.0
+248354,Reik,Group,Reik,1.0
+1752904,Olivia Rodrigo,Person,Olivia Rodrigo,1.0
+638546,Skrillex,Person,Skrillex,1.0
+988860,Lorde,Person,Lorde,1.0
+11553,Usher,Person,Usher,1.0
+1242195,$uicideboy$,Group,$uicideboy$,1.0
+956,David Bowie,Person,David Bowie,1.0
+541578,Kid Cudi,Person,Kid Cudi,1.0
+20544,50 Cent,Person,50 Cent,1.0
+22532,Gorillaz,Group,Gorillaz,1.0
+1069478,Hozier,Person,Hozier,1.0
+757263,French Montana,Person,French Montana,1.0
+771929,Camilo,Person,Camilo,1.0
+899493,Becky G,Person,Becky G,1.0
+898962,Tory Lanez,Person,Tory Lanez,1.0
+146720,The Killers,Group,The Killers,1.0
+831916,Banda Sinaloense MS de Sergio Lizárraga,Group,Banda MS de Sergio Lizárraga,0.835820895522388
+176,Foo Fighters,Group,Foo Fighters,1.0
+241,blink‐182,Group,blink-182,0.8888888888888888
+111,Mariah Carey,Person,Mariah Carey,1.0
+824188,Meek Mill,Person,Meek Mill,1.0
+501,Daft Punk,Group,Daft Punk,1.0
+197,U2,Group,U2,1.0
+176938,John Legend,Person,John Legend,1.0
+1140624,Rae Sremmurd,Group,Rae Sremmurd,1.0
+1131760,Meghan Trainor,Person,Meghan Trainor,1.0
+388,Led Zeppelin,Group,Led Zeppelin,1.0
+1603703,6ix9ine,Person,6ix9ine,1.0
+866593,Rita Ora,Person,Rita Ora,1.0
+255180,Gucci Mane,Person,Gucci Mane,1.0
+567175,Mumford & Sons,Group,Mumford & Sons,1.0
+923313,The 1975,Group,The 1975,1.0
+1385354,Luke Combs,Person,Luke Combs,1.0
+1309563,Marília Mendonça,Person,Marília Mendonça,1.0
+1674209,Ava Max,Person,Ava Max,1.0
+24227,Jack Johnson,Person,Jack Johnson,1.0
+1533678,Manuel Turizo,Person,Manuel Turizo,1.0
+1744675,Roddy Ricch,Person,Roddy Ricch,1.0
+9698,System of a Down,Group,System Of A Down,0.875
+66,Radiohead,Group,Radiohead,1.0
+1180312,Swae Lee,Person,Swae Lee,1.0
+1129211,Hailee Steinfeld,Person,Hailee Steinfeld,1.0
+2591,Muse,Group,Muse,1.0
+1279618,Bazzi,Person,Bazzi,1.0
+12640,The Notorious B.I.G.,Person,The Notorious B.I.G.,1.0
+920582,The Neighbourhood,Group,The Neighbourhood,1.0
+1539,Elvis Presley,Person,Elvis Presley,1.0
+177,Snoop Dogg,Person,Snoop Dogg,1.0
+1085292,Jess Glynne,Person,Jess Glynne,1.0
+1088095,Felix Jaehn,Person,Felix Jaehn,1.0
+101,Frank Sinatra,Person,Frank Sinatra,1.0
+1819344,Polo G,Person,Polo G,1.0
+1424271,Joji,Person,Joji,1.0
+1010888,Julia Michaels,Person,Julia Michaels,1.0
+273945,Paramore,Group,Paramore,1.0
+1290933,Cheat Codes,Group,Cheat Codes,1.0
+939032,Fifth Harmony,Group,Fifth Harmony,1.0
+859924,Disclosure,Group,Disclosure,1.0
+803566,Troye Sivan,Person,Troye Sivan,1.0
+20660,Oasis,Group,Oasis,1.0
+1374,Slipknot,Group,Slipknot,1.0
+929657,Florida Georgia Line,Group,Florida Georgia Line,1.0
+495,Christina Aguilera,Person,Christina Aguilera,1.0
+1669383,Jhay Cortez,Person,Jhay Cortez,1.0
+905024,Chance the Rapper,Person,Chance the Rapper,1.0
+577669,Jorge & Mateus,Group,Jorge & Mateus,1.0
+14423,Bon Jovi,Group,Bon Jovi,1.0
+120177,Don Omar,Person,Don Omar,1.0
+845770,The Lumineers,Group,The Lumineers,1.0
+106927,Kings of Leon,Group,Kings of Leon,1.0
+571280,Tame Impala,Group,Tame Impala,1.0
+1644516,Dalex,Person,Dalex,1.0
+511819,Luke Bryan,Person,Luke Bryan,1.0
+934240,Tove Lo,Person,Tove Lo,1.0
+24018,Alicia Keys,Person,Alicia Keys,1.0
+68173,Jason Mraz,Person,Jason Mraz,1.0
+541443,The Script,Group,The Script,1.0
+1206587,6LACK,Person,6LACK,1.0
+1855977,The Kid LAROI,Person,The Kid LAROI,1.0
+647066,Glee Cast,Group,Glee Cast,1.0
+944543,Melanie Martinez,Person,Melanie Martinez,1.0
+516893,Florence + the Machine,Group,Florence + The Machine,0.9545454545454546
+1637497,Paulo Londra,Person,Paulo Londra,1.0
+889440,Natti Natasha,Person,Natti Natasha,1.0
+1519546,Lil Pump,Person,Lil Pump,1.0
+1167535,Justin Quiles,Person,Justin Quiles,1.0
+1022373,Galantis,Group,Galantis,1.0
+1638056,Megan thee Stallion,Person,Megan Thee Stallion,0.9473684210526316
+452777,Five Finger Death Punch,Group,Five Finger Death Punch,1.0
+813,Bruce Springsteen,Person,Bruce Springsteen,1.0
+12068,Nickelback,Group,Nickelback,1.0
+1101110,Kehlani,Person,Kehlani,1.0
+1918,Creedence Clearwater Revival,Group,Creedence Clearwater Revival,1.0
+805610,Alesso,Person,Alesso,1.0
+304981,Ne‐Yo,Person,Ne-Yo,0.8
+89,Madonna,Person,Madonna,1.0
+1467864,Christian Nodal,Person,Christian Nodal,1.0
+163,2Pac,Person,2Pac,1.0
+1425714,Piso 21,Group,Piso 21,1.0
+754690,Niall Horan,Person,Niall Horan,1.0
+1269383,Bryson Tiller,Person,Bryson Tiller,1.0
+979,Whitney Houston,Person,Whitney Houston,1.0
+1621012,Capital Bra,Person,Capital Bra,1.0
+1297224,Kane Brown,Person,Kane Brown,1.0
+1254571,Playboi Carti,Person,Playboi Carti,1.0
+34,Rammstein,Group,Rammstein,1.0
+1318006,Zé Neto & Cristiano,Group,Zé Neto & Cristiano,1.0
+910,ABBA,Group,ABBA,1.0
+804367,Gusttavo Lima,Person,Gusttavo Lima,1.0
+1409564,NAV,Person,NAV,1.0
+734972,Labrinth,Person,Labrinth,1.0
+48734,My Chemical Romance,Group,My Chemical Romance,1.0
+599382,YG,Person,YG,1.0
+895644,Thomas Rhett,Person,Thomas Rhett,1.0
+1030105,Henrique Albino,Person,Henrique & Juliano,0.7878787878787878
+1211210,Arcangelo,Group,Arcangel,0.9411764705882352
+713629,Alok,Person,Alok,1.0
+157343,Zion I,Group,Zion & Lennox,0.5263157894736842
+347152,Jonas Brothers,Group,Jonas Brothers,1.0
+1137671,James Bay,Person,James Bay,1.0
+1503351,Morat,Group,Morat,1.0
+244,Disturbed,Group,Disturbed,1.0
+1079251,Lenny Tavárez,Person,Lenny Tavárez,1.0
+998861,Vance Joy,Person,Vance Joy,1.0
+585303,Kevin Gates,Person,Kevin Gates,1.0
+856625,Ryan Lewis,Person,Ryan Lewis,1.0
+835335,Flume,Person,Flume,1.0
+74202,Kelly Clarkson,Person,Kelly Clarkson,1.0
+157386,Wisin,Person,Wisin,1.0
+514,Jennifer Lopez,Person,Jennifer Lopez,1.0
+47218,Avril Lavigne,Person,Avril Lavigne,1.0
+1598431,Lil Skies,Person,Lil Skies,1.0
+481,Aerosmith,Group,Aerosmith,1.0
+281667,Bring Me the Horizon,Group,Bring Me The Horizon,0.95
+29,Stevie Wonder,Person,Stevie Wonder,1.0
+124098,Amy Winehouse,Person,Amy Winehouse,1.0
+797262,Miguel,Person,Miguel,1.0
+202,Hans Zimmer,Person,Hans Zimmer,1.0
+1697501,YNW Melly,Person,YNW Melly,1.0
+38536,Alejandro Fernández,Person,Alejandro Fernández,1.0
+1834232,Tones and I,Person,Tones And I,0.9090909090909092
+1195773,Fetty Wap,Person,Fetty Wap,1.0
+39229,Sean Paul,Person,Sean Paul,1.0
+486,Backstreet Boys,Group,Backstreet Boys,1.0
+1285561,TWICE,Group,TWICE,1.0
+554751,Kesha,Person,Kesha,1.0
+1319,Maná,Group,Maná,1.0
+1401175,Morgan Wallen,Person,Morgan Wallen,1.0
+624860,Jeremih,Person,Jeremih,1.0
+143296,Yandel,Person,Yandel,1.0
+373,Dr. Dre,Person,Dr. Dre,1.0
+157342,Wisin & Yandel,Group,Wisin & Yandel,1.0
+104857,Three Days Grace,Group,Three Days Grace,1.0
+498835,Steve Aoki,Person,Steve Aoki,1.0
+262693,Jason Aldean,Person,Jason Aldean,1.0
+1511392,Why Don’t We,Group,Why Don't We,0.9166666666666666
+1343626,Seeb,Group,Seeb,1.0
+1016421,George Ezra,Person,George Ezra,1.0
+1055125,Dan + Shay,Group,Dan + Shay,1.0
+138,Billy Joel,Person,Billy Joel,1.0
+769821,Prince Royce,Person,Prince Royce,1.0
+151,Phil Collins,Person,Phil Collins,1.0
+190,Pearl Jam,Group,Pearl Jam,1.0
+163726,Akon,Person,Akon,1.0
+217006,Trey Songz,Person,Trey Songz,1.0
+11386,Eagles,Group,Eagles,1.0
+387,Johnny Cash,Person,Johnny Cash,1.0
+754645,Jessie J,Person,Jessie J,1.0
+1839407,Lil Tecca,Person,Lil Tecca,1.0
+1726000,Lil Mosey,Person,Lil Mosey,1.0
+1161927,Wesley Safadão,Person,Wesley Safadão,1.0
+629401,benny blanco,Person,benny blanco,1.0
+972540,Passenger,Person,Passenger,1.0
+650387,Lin‐Manuel Miranda,Person,Lin-Manuel Miranda,0.9444444444444444
+881185,Lukas Graham,Group,Lukas Graham,1.0
+1364856,CNCO,Group,CNCO,1.0
+71902,Avenged Sevenfold,Group,Avenged Sevenfold,1.0
+368,The Offspring,Group,The Offspring,1.0
+1560062,Nio García,Person,Nio Garcia,0.9
+1277539,Matheus Mota,Person,Matheus & Kauan,0.6666666666666666
+112605,Mark Ronson,Person,Mark Ronson,1.0
+30696,The Strokes,Group,The Strokes,1.0
+1122478,Lizzo,Person,Lizzo,1.0
+843338,2 Chainz,Person,2 Chainz,1.0
+139,Céline Dion,Person,Céline Dion,1.0
+1819690,Lil Tjay,Person,Lil Tjay,1.0
+330,Ricky Martin,Person,Ricky Martin,1.0
+727869,Foster the People,Group,Foster The People,0.9411764705882352
+1331,Ricardo Arjona,Person,Ricardo Arjona,1.0
+9804,Train,Group,Train,1.0
+17,Bob Dylan,Person,Bob Dylan,1.0
+786252,ScHoolboy Q,Person,ScHoolboy Q,1.0
+799435,Pablo Alborán,Person,Pablo Alborán,1.0
+618346,Rudimental,Group,Rudimental,1.0
+1083137,Jul,Person,Jul,1.0
+1457971,H.E.R.,Person,H.E.R.,1.0
+1851042,24kGoldn,Person,24kGoldn,1.0
+847007,Pentatonix,Group,Pentatonix,1.0
+1684,Marc Anthony,Person,Marc Anthony,1.0
+212204,James Blunt,Person,James Blunt,1.0
+1104420,Macklemore & Ryan Lewis,Group,Macklemore & Ryan Lewis,1.0
+51840,Armin van Buuren,Person,Armin van Buuren,1.0
+57111,Aventura,Group,Aventura,1.0
+1165290,Daniel Caesar,Person,Daniel Caesar,1.0
+1340731,Lil Yachty,Person,Lil Yachty,1.0
+10262,Alejandro Sanz,Person,Alejandro Sanz,1.0
+470713,Bon Iver,Group,Bon Iver,1.0
+1141979,Sam Hunt,Person,Sam Hunt,1.0
+754688,Liam Payne,Person,Liam Payne,1.0
+233,Dire Straits,Group,Dire Straits,1.0
+1063068,Offset,Person,Offset,1.0
+1670724,Duki,Person,Duki,1.0
+3031,Nelly,Person,Nelly,1.0
+857223,Jhené Aiko,Person,Jhené Aiko,1.0
+1063065,Quavo,Person,Quavo,1.0
+379719,Zac Brown Band,Group,Zac Brown Band,1.0
+1351418,BROCKHAMPTON,Group,BROCKHAMPTON,1.0
+156,Bryan Adams,Person,Bryan Adams,1.0
+161309,Cartel de Santa,Group,Cartel De Santa,0.9333333333333332
+1510605,Ski Mask the Slump God,Person,Ski Mask The Slump God,0.9545454545454546
+42916,Blake Shelton,Person,Blake Shelton,1.0
+1022186,PARTYNEXTDOOR,Person,PARTYNEXTDOOR,1.0
+59036,The Black Keys,Group,The Black Keys,1.0
+48183,Carlos Vives,Person,Carlos Vives,1.0
+677828,Mike Posner,Person,Mike Posner,1.0
+1047489,The Vamps,Group,The Vamps,1.0
+626805,R3HAB,Person,R3HAB,1.0
+1697548,Don Toliver,Person,Don Toliver,1.0
+698756,Charli XCX,Person,Charli XCX,1.0
+991,Bee Gees,Group,Bee Gees,1.0
+1252793,Ninho,Person,Ninho,1.0
+1473115,Dean Lewis,Person,Dean Lewis,1.0
+822,The Police,Group,The Police,1.0
+962,Marvin Gaye,Person,Marvin Gaye,1.0
+795784,Birdy,Person,Birdy,1.0
+1227339,ILLENIUM,Person,ILLENIUM,1.0
+595413,Boyce Avenue,Group,Boyce Avenue,1.0
+1179459,Lost Frequencies,Person,Lost Frequencies,1.0
+1947,Skillet,Group,Skillet,1.0
+1689884,Danny Ocean,Person,Danny Ocean,1.0
+10042,Iron Maiden,Group,Iron Maiden,1.0
+968752,Lil Durk,Person,Lil Durk,1.0
+1460651,Jack Harlow,Person,Jack Harlow,1.0
+21916,Tim McGraw,Person,Tim McGraw,1.0
+51876,Rise Against,Group,Rise Against,1.0
+1317804,Maren Morris,Person,Maren Morris,1.0
+94,John Williams,Person,John Williams,1.0
+838293,A$AP Ferg,Person,A$AP Ferg,1.0
+44318,T.I.,Person,T.I.,1.0
+608462,Carly Rae Jepsen,Person,Carly Rae Jepsen,1.0
+928797,Bradley Cooper,Person,Bradley Cooper,1.0
+48426,Juanes,Person,Juanes,1.0
+1757,The Doors,Group,The Doors,1.0
+864994,Iggy Azalea,Person,Iggy Azalea,1.0
+714072,Glass Animals,Group,Glass Animals,1.0
+818141,alt‐J,Group,alt-J,0.8
+74910,Bibi Bourelly,Person,Bibi Blocksberg,0.5714285714285714
+530516,Cage the Elephant,Group,Cage The Elephant,0.9411764705882352
+1130852,Anderson .Paak,Person,Anderson .Paak,1.0
+446,Weezer,Group,Weezer,1.0
+20861,Soda Stereo,Group,Soda Stereo,1.0
+1477650,Alec Benjamin,Person,Alec Benjamin,1.0
+1289879,LANY,Group,LANY,1.0
+1276260,Mabel,Person,Mabel,1.0
+1260481,Sigala,Person,Sigala,1.0
+33900,Hillsong Worship,Group,Hillsong Worship,1.0
+1658,Journey,Group,Journey,1.0
+21415,Kenny Chesney,Person,Kenny Chesney,1.0
+366866,Eric Church,Person,Eric Church,1.0
+931749,La Arrolladora Banda El Limón de René Camacho,Group,La Arrolladora Banda El Limón De Rene Camacho,0.9555555555555556
+960795,Nick Jonas,Person,Nick Jonas,1.0
+1526784,Jeremy Zucker,Person,Jeremy Zucker,1.0
+1042416,Madison Beer,Person,Madison Beer,1.0
+926,The Cure,Group,The Cure,1.0
+816695,Calibre 50,Group,Calibre 50,1.0
+1441180,SAINt JHN,Person,SAINt JHN,1.0
+777891,RAF Camora,Person,RAF Camora,1.0
+1519953,Rex Orange County,Person,Rex Orange County,1.0
+1432528,Noah Cyrus,Person,Noah Cyrus,1.0
+1574933,Mau y Ricky,Group,Mau y Ricky,1.0
+1092430,MAGIC!,Group,MAGIC!,1.0
+624480,The xx,Group,The xx,1.0
+868677,Arijit Singh,Person,Arijit Singh,1.0
+40269,Norah Jones,Person,Norah Jones,1.0
+1801149,Lunay,Person,Lunay,1.0
+1388488,ROSALÍA,Person,ROSALÍA,1.0
+1167607,Sam Feldt,Person,Sam Feldt,1.0
+468,Destiny’s Child,Group,Destiny's Child,0.9333333333333332
+913502,JP Cooper,Person,JP Cooper,1.0
+1018410,Jon Bellion,Person,Jon Bellion,1.0
+883129,EXO,Group,EXO,1.0
+11632,Juan Gabriel,Person,Juan Gabriel,1.0
+938,Eric Clapton,Person,Eric Clapton,1.0
+1823598,iann dior,Person,iann dior,1.0
+898706,Kid Ink,Person,Kid Ink,1.0
+939037,Normani,Person,Normani,1.0
+2122,Paul McCartney,Person,Paul McCartney,1.0
+1007140,X Ambassadors,Group,X Ambassadors,1.0
+1031390,Rich the Kid,Person,Rich The Kid,0.9166666666666666
+497122,Jesse Cook,Person,Jesse & Joy,0.6666666666666666
+1112124,Dimitri Vegas & Like Mike,Group,Dimitri Vegas & Like Mike,1.0
+129,Simon & Garfunkel,Group,Simon & Garfunkel,1.0
+1404279,Aminé,Person,Aminé,1.0
+951571,Chris Stapleton,Person,Chris Stapleton,1.0
+317,Depeche Mode,Group,Depeche Mode,1.0
+1122395,Ufo361,Person,Ufo361,1.0
+364930,Grey,Person,Grey,1.0
+1208783,PNL,Group,PNL,1.0
+1591692,Conan Gray,Person,Conan Gray,1.0
+525,Outkastz,Group,Outkast,0.9333333333333332
+51856,Breaking Benjamin,Group,Breaking Benjamin,1.0
+1229749,Matoma,Person,Matoma,1.0
+352,Korn,Group,Korn,1.0
+331473,Hillsong UNITED,Group,Hillsong UNITED,1.0
+1801430,NLE Choppa,Person,NLE Choppa,1.0
+975013,Becky Hill,Person,Becky Hill,1.0
+1099337,Jax Jones,Person,Jax Jones,1.0
+203152,The Game,Person,The Game,1.0
+1135,The Beach Boys,Group,The Beach Boys,1.0
+1311809,Maiara & Maraisa,Group,Maiara & Maraisa,1.0
+745888,AJR,Group,AJR,1.0
+277964,Volbeat,Group,Volbeat,1.0
+184,Jimi Hendrix,Person,Jimi Hendrix,1.0
+400,Papa Roach,Group,Papa Roach,1.0
+1010609,Sabrina Carpenter,Person,Sabrina Carpenter,1.0
+353667,Rick Ross,Person,Rick Ross,1.0
+10302,R.E.M.,Group,R.E.M.,1.0
+2103723,Os Barões da Pisadinha,Group,Os Barões Da Pisadinha,0.9545454545454546
+1276156,DNCE,Group,DNCE,1.0
+1243587,Bonez MC,Person,Bonez MC,1.0
+596411,B.o.B,Person,B.o.B,1.0
+729961,Christina Perri,Person,Christina Perri,1.0
+1456211,KYLE,Person,KYLE,1.0
+260777,The Fray,Group,The Fray,1.0
+1975382,Imanbek,Person,Imanbek,1.0
+771509,Years & Years,Group,Years & Years,1.0
+327907,Juan Magán,Person,Juan Magán,1.0
+142,George Michael,Person,George Michael,1.0
+596594,MARINA,Person,MARINA,1.0
+1696271,Summer Walker,Person,Summer Walker,1.0
+1341448,Calum Scott,Person,Calum Scott,1.0
+2935,Robbie Williams,Person,Robbie Williams,1.0
+34802,Ludovico Einaudi,Person,Ludovico Einaudi,1.0
+112394,Shinedown,Group,Shinedown,1.0
+1670255,bbno$,Person,bbno$,1.0
+232670,All Time Low,Group,All Time Low,1.0
+924,Van Morrison,Person,Van Morrison,1.0
+824,Lynyrd Skynyrd,Group,Lynyrd Skynyrd,1.0
+306739,Hollywood Undead,Group,Hollywood Undead,1.0
+1747885,KHEA,Person,KHEA,1.0
+1138147,Stormzy,Person,Stormzy,1.0
+9764,"Earth, Wind & Fire",Group,"Earth, Wind & Fire",1.0
+819657,Of Monsters and Men,Group,Of Monsters and Men,1.0
+1120152,Axwell Λ Ingrosso,Group,Axwell /\ Ingrosso,0.9142857142857144
+32857,Keith Urban,Person,Keith Urban,1.0
+1867874,Bizarrap,Person,Bizarrap,1.0
+253121,A Day to Remember,Group,A Day To Remember,0.9411764705882352
+1165558,TOTO,Person,TOTO,1.0
+1505352,Rels B,Person,Rels B,1.0
+37921,Daryl Hall & John Oates,Group,Daryl Hall & John Oates,1.0
+1586989,Måneskin,Group,Måneskin,1.0
+294212,T‐Pain,Person,T-Pain,0.8333333333333334
+778881,Andy Grammer,Person,Andy Grammer,1.0
+23514,Vicente Fernández,Person,Vicente Fernández,1.0
+381,Rage Against the Machine,Group,Rage Against The Machine,0.9583333333333334
+1309920,Aya Nakamura,Person,Aya Nakamura,1.0
+1158,The Smiths,Group,The Smiths,1.0
+1276740,PnB Rock,Person,PnB Rock,1.0
+1525242,Dermot Kennedy,Person,Dermot Kennedy,1.0
+1419,Black Sabbath,Group,Black Sabbath,1.0
+931370,Kodaline,Group,Kodaline,1.0
+158,The Cranberries,Group,The Cranberries,1.0
+22351,The White Stripes,Group,The White Stripes,1.0
+1489816,Brytiago,Person,Brytiago,1.0
+1605,Scorpions,Group,Scorpions,1.0
+936546,ODESZA,Group,ODESZA,1.0
+1015506,Milky Chance,Group,Milky Chance,1.0
+1754107,Tate McRae,Person,Tate McRae,1.0
+1860445,Gimson,Person,GIMS,0.2
+153,Prince,Person,Prince,1.0
+1016480,Mustard,Person,Mustard,1.0
+1321872,Rag’n’Bone Man,Person,Rag'n'Bone Man,0.8571428571428571
+780663,Pedro Capó,Person,Pedro Capó,1.0
+1282361,El Alfa,Person,El Alfa,1.0
+782,Van Halen,Group,Van Halen,1.0
+788324,WALK THE MOON,Group,WALK THE MOON,1.0
+54739,Los Ángeles Azules,Group,Los Ángeles Azules,1.0
+1460,Aretha Franklin,Person,Aretha Franklin,1.0
+179,Shaggy,Person,Shaggy,1.0
+250553,Carrie Underwood,Person,Carrie Underwood,1.0
+88,Enya,Person,Enya,1.0
+235127,Sabaton,Group,Sabaton,1.0
+1360628,gnash,Person,gnash,1.0
+821945,Hardwell,Person,Hardwell,1.0
+86296,Don Diablo,Person,Don Diablo,1.0
+1784564,MEDUZA,Group,MEDUZA,1.0
+397,Sublime,Group,Sublime,1.0
+1296270,Damso,Person,Damso,1.0
+4541,Rod Stewart,Person,Rod Stewart,1.0
+1717882,Samra,Person,Samra,1.0
+1200229,Kali Uchis,Person,Kali Uchis,1.0
+759310,Nacho,Person,Nacho,1.0
+1632,George Strait,Person,George Strait,1.0
+64482,Evanescence,Group,Evanescence,1.0
+867075,Mac DeMarco,Person,Mac DeMarco,1.0
+15092,Sum 41,Group,Sum 41,1.0
+809281,C. Tangana,Person,C. Tangana,1.0
+14310,Nelly Furtado,Person,Nelly Furtado,1.0
+672931,De La Ghetto,Person,De La Ghetto,1.0
+1366235,Sfera Ebbasta,Person,Sfera Ebbasta,1.0
+576982,Two Door Cinema Club,Group,Two Door Cinema Club,1.0
+292299,MGMT,Group,MGMT,1.0
+1325612,Ella Mai,Person,Ella Mai,1.0
+188,Ozzy Osbourne,Person,Ozzy Osbourne,1.0
+454711,Colbie Caillat,Person,Colbie Caillat,1.0
+1327733,Desiigner,Person,Desiigner,1.0
+2884,R. Kelly,Person,R. Kelly,1.0
+1331271,Jorja Smith,Person,Jorja Smith,1.0
+1489813,Noriel,Person,Noriel,1.0
+1138435,Red Velvet,Group,Red Velvet,1.0
+868899,Cali y El Dandee,Group,Cali Y El Dandee,0.9375
+32103,Rascal Flatts,Group,Rascal Flatts,1.0
+1763,3 Doors Down,Group,3 Doors Down,1.0
+754689,Louis Tomlinson,Person,Louis Tomlinson,1.0
+163502,Melendi,Person,Melendi,1.0
+227182,Gotye,Person,Gotye,1.0
+138838,Dave,Person,Dave,1.0
+1232655,Astrid S,Person,Astrid S,1.0
+1449594,Arizona Zervas,Person,Arizona Zervas,1.0
+1184330,RAYE,Person,RAYE,1.0
+187,Marilyn Manson,Group,Marilyn Manson,1.0
+152721,Sido,Person,Sido,1.0
+1532993,Kevinho,Person,MC Kevinho,0.8235294117647058
+437457,Vampire Weekend,Group,Vampire Weekend,1.0
+933539,MØ,Person,MØ,1.0
+1528435,Clairo,Person,Clairo,1.0
+1220040,Joyner Lucas,Person,Joyner Lucas,1.0
+20651,Luciano,Person,Luciano,1.0
+2333,The Clash,Group,The Clash,1.0
+1808875,Goodboys,Group,Goodboys,1.0
+1239158,OMI,Person,OMI,1.0
+251,Limp Bizkit,Group,Limp Bizkit,1.0
+77161,M83,Group,M83,1.0
+32283,Joan Sebastian,Person,Joan Sebastian,1.0
+1041633,Mike WiLL Made‐It,Person,Mike WiLL Made-It,0.9411764705882352
+207671,Pharrell Williams,Person,Pharrell Williams,1.0
+123172,Sleeping at Last,Group,Sleeping At Last,0.9375
+11650,The Smashing Pumpkins,Group,The Smashing Pumpkins,1.0
+771896,Jaden,Person,Jaden,1.0
+51703,Thirty Seconds to Mars,Group,Thirty Seconds To Mars,0.9545454545454546
+167543,The Kooks,Group,The Kooks,1.0
+761147,Lord Huron,Group,Lord Huron,1.0
+316739,Portugal. The Man,Group,Portugal. The Man,1.0
+665024,Olly Murs,Person,Olly Murs,1.0
+211,Lauryn Hill,Person,Ms. Lauryn Hill,0.8461538461538461
+1435255,Stefflon Don,Person,Stefflon Don,1.0
+1210602,Jessie Reyez,Person,Jessie Reyez,1.0
+1591256,El Fantasma,Person,El Fantasma,1.0
+1452496,Loud Luxury,Group,Loud Luxury,1.0
+136,Annie Lennox,Person,Annie Lennox,1.0
+833798,Carlos Rivera,Person,Carlos Rivera,1.0
+1577687,Stray Kids,Group,Stray Kids,1.0
+878693,Joey Bada$$,Person,Joey Bada$$,1.0
+904328,Kontra K,Person,Kontra K,1.0
+10527,Westlife,Group,Westlife,1.0
+727129,Luan Santana,Person,Luan Santana,1.0
+243162,Michael Silverman,Person,Michael Silverman,1.0
+643372,Topic,Person,Topic,1.0
+11783,Queens of the Stone Age,Group,Queens of the Stone Age,1.0
+511606,Owl City,Person,Owl City,1.0
+500,DMX,Person,DMX,1.0
+30244,Snow Patrol,Group,Snow Patrol,1.0
+120947,Keane,Group,Keane,1.0
+801011,Gerardo Ortiz,Person,Gerardo Ortiz,1.0
+113525,Dierks Bentley,Person,Dierks Bentley,1.0
+159756,Halfcrash,Person,Ha*Ash,0.5333333333333333
+55630,Kelly Rowland,Person,Kelly Rowland,1.0
+549575,Afrojack,Person,Afrojack,1.0
+365,Incubus,Group,Incubus,1.0
+1209338,Gryffin,Person,Gryffin,1.0
+1847605,Apache 207,Person,Apache 207,1.0
+188156,Ciara,Person,Ciara,1.0
+1808636,Powfu,Person,Powfu,1.0
+1471597,Tee Grizzley,Person,Tee Grizzley,1.0
+928102,Kacey Musgraves,Person,Kacey Musgraves,1.0
+1013826,Lil Dicky,Person,Lil Dicky,1.0
+253598,Yo Gotti,Person,Yo Gotti,1.0
+39751,Los Tigres del Norte,Group,Los Tigres Del Norte,0.95
+1854628,Ali Gatie,Person,Ali Gatie,1.0
+32111,Gigi D’Agostino,Person,Gigi D'Agostino,0.9333333333333332
+136091,Aloe Blacc,Person,Aloe Blacc,1.0
+828457,Nekfeu,Person,Nekfeu,1.0
+931159,Tom Odell,Person,Tom Odell,1.0
+287019,Cosculluela,Person,Cosculluela,1.0
+169160,Santana,Group,Santana,1.0
+1851043,Trevor Daniel,Person,Trevor Daniel,1.0
+3198,KISS,Group,KISS,1.0
+1677471,Rod Wave,Person,Rod Wave,1.0
+258959,MAX,Group,MAX,1.0
+1330478,Quinn XCII,Person,Quinn XCII,1.0
+157830,Sara Bareilles,Person,Sara Bareilles,1.0
+118813,Stefan Wolf,Person,TKKG,0.0
+1094970,SEVENTEEN,Group,SEVENTEEN,1.0
+848315,Elevation Worship,Group,Elevation Worship,1.0
+83,Fryderyk Chopin,Person,Frédéric Chopin,0.7333333333333333
+528363,Wale,Person,Wale,1.0
+1760202,Blueface,Person,Blueface,1.0
+1301297,Thalia,Group,Thalia,1.0
+701111,tINI,Person,TINI,0.75
+874303,Conor Maynard,Person,Conor Maynard,1.0
+1974150,Jay Wheeler,Person,Jay Wheeler,1.0
+1951861,Natanael Cano,Person,Natanael Cano,1.0
+645007,Danna Paola,Person,Danna Paola,1.0
+704701,Swedish House Mafia,Group,Swedish House Mafia,1.0
+320853,Zoé,Group,Zoé,1.0
+36594,Mötley Crüe,Group,Mötley Crüe,1.0
+620911,fun.,Group,fun.,1.0
+723178,Ben Howard,Person,Ben Howard,1.0
+1197532,Old Dominion,Group,Old Dominion,1.0
+2650,Wham!,Group,Wham!,1.0
+1489814,Bryant Myers,Person,Bryant Myers,1.0
+1402446,ANAVITÓRIA,Group,ANAVITÓRIA,1.0
+854612,Willy William,Person,Willy William,1.0
+518096,Lady A,Group,Lady A,1.0
+155855,Booba,Person,Booba,1.0
+404925,Kollegah,Person,Kollegah,1.0
+693689,Gente de Zona,Group,Gente De Zona,0.9230769230769232
+931443,CHVRCHES,Group,CHVRCHES,1.0
+1306737,Martin Jensen,Person,Martin Jensen,1.0
+1455831,Moneybagg Yo,Person,Moneybagg Yo,1.0
+2388,Nas,Person,Nas,1.0
+1279068,Daya,Person,Daya,1.0
+410737,Leona Lewis,Person,Leona Lewis,1.0
+633,La Oreja de Van Gogh,Group,La Oreja de Van Gogh,1.0
+122374,Sufjan Stevens,Person,Sufjan Stevens,1.0
+859939,Bethel Music,Group,Bethel Music,1.0
+65422,Gwen Stefani,Person,Gwen Stefani,1.0
+1598916,Casper Mágico,Person,Casper Magico,0.9230769230769232
+883941,Chief Keef,Person,Chief Keef,1.0
+63498,The Jackson 5,Group,The Jackson 5,1.0
+1486831,Darell,Person,Darell,1.0
+363089,Fergie,Person,Fergie,1.0
+1270576,Niska,Person,Niska,1.0
+540613,Lee Brice,Person,Lee Brice,1.0
+815,John Lennon,Person,John Lennon,1.0
+1152310,Jack Ü,Group,Jack Ü,1.0
+1439722,Felipe Araújo,Person,Felipe Araújo,1.0
+929841,Denzel Curry,Person,Denzel Curry,1.0
+69148,Bruno & Marrone,Group,Bruno & Marrone,1.0
+983,Sting,Person,Sting,1.0
+164813,Arcade Fire,Group,Arcade Fire,1.0
+166,Ice Cube,Person,Ice Cube,1.0
+964,Neil Young,Person,Neil Young,1.0
+1257763,Kevin Roldán,Person,Kevin Roldan,0.9166666666666666
+418601,Taio Cruz,Person,Taio Cruz,1.0
+1887202,Internet Money,Group,Internet Money,1.0
+39285,Charlie Brown Jr.,Group,Charlie Brown Jr.,1.0
+1773,Paul Simon,Person,Paul Simon,1.0
+446247,Sean Kingston,Person,Sean Kingston,1.0
+1830,Alan Jackson,Person,Alan Jackson,1.0
+1823875,Guaynaa,Person,Guaynaa,1.0
+50491,Martin Solveig,Person,Martin Solveig,1.0
+963757,MKTO,Group,MKTO,1.0
+730893,Tainy,Person,Tainy,1.0
+1247252,AJ Tracey,Person,AJ Tracey,1.0
+2215012,Banda El Recodo,Group,Banda El Recodo,1.0
+94349,The National,Group,The National,1.0
+890092,Yellow Claw,Group,Yellow Claw,1.0
+1289227,Mon Laferte,Person,Mon Laferte,1.0
+14410,Nat King Cole,Person,Nat King Cole,1.0
+632,Chayanne,Person,Chayanne,1.0
+1811,Roxette,Group,Roxette,1.0
+379514,Plan B,Person,Plan B,1.0
+910299,John Newman,Person,John Newman,1.0
+1635780,Saweetie,Person,Saweetie,1.0
+1603398,Yung Gravy,Person,Yung Gravy,1.0
+1710849,Granular Sky,Group,Granular,0.8
+726072,Nipsey Hussle,Person,Nipsey Hussle,1.0
+685411,Stromae,Person,Stromae,1.0
+1569763,Alex Rose,Person,Alex Rose,1.0
+265878,José José,Person,José José,1.0
+1269100,Chelsea Cutler,Person,Chelsea Cutler,1.0
+1526311,Beret,Person,Beret,1.0
+1492424,DJ Luian,Person,DJ Luian,1.0
+2390,Nina Simone,Person,Nina Simone,1.0
+973,Shania Twain,Person,Shania Twain,1.0
+1236601,Ezhel,Person,Ezhel,1.0
+2116,Electric Light Orchestra,Group,Electric Light Orchestra,1.0
+311401,Calle 13,Group,Calle 13,1.0
+357688,Lily Allen,Person,Lily Allen,1.0
+37180,Marco Antonio Solís,Person,Marco Antonio Solís,1.0
+1663900,Aitana,Person,Aitana,1.0
+731790,Mambo Kingz,Group,Mambo Kingz,1.0
+211847,Bullet for My Valentine,Group,Bullet For My Valentine,0.9565217391304348
+1607,Dolly Parton,Person,Dolly Parton,1.0
+30600,Brad Paisley,Person,Brad Paisley,1.0
+730638,Chencho Corleone,Person,Chencho Corleone,1.0
+463933,deadmau5,Person,deadmau5,1.0
+40922,Simple Plan,Group,Simple Plan,1.0
+107513,Los Temerarios,Group,Los Temerarios,1.0
+1220000,Cat Stevens,Person,Yusuf / Cat Stevens,0.7333333333333333
+198,Sade,Group,Sade,1.0
+2261,*NSYNC,Group,*NSYNC,1.0
+187983,The Pussycat Dolls,Group,The Pussycat Dolls,1.0
+11047,Lionel Richie,Person,Lionel Richie,1.0
+1317751,League of Legends,Group,League of Legends,1.0
+509,Goo Goo Dolls,Group,The Goo Goo Dolls,0.8666666666666667
+35536,Chia Chou,Person,Jay Chou,0.7058823529411765
+1004282,Mike Perry,Person,Mike Perry,1.0
+46134,David Bisbal,Person,David Bisbal,1.0
+1427692,Tom Walker,Person,Tom Walker,1.0
+1678838,Dilsinho,Person,Dilsinho,1.0
+14462,Kylie Minogue,Person,Kylie Minogue,1.0
+84601,will.i.am,Person,will.i.am,1.0
+794875,Mr. Probz,Person,Mr. Probz,1.0
+1234863,Ferrugem,Person,Ferrugem,1.0
+1378410,James TW,Person,James TW,1.0
+1117989,Bea Miller,Person,Bea Miller,1.0
+11540,The Who,Group,The Who,1.0
+78755,Natalia Lafourcade,Person,Natalia Lafourcade,1.0
+1472176,Dennis Lloyd,Person,Dennis Lloyd,1.0
+163234,Miranda Lambert,Person,Miranda Lambert,1.0
+6083,Willie Nelson,Person,Willie Nelson,1.0
+542846,Summer Cem,Person,Summer Cem,1.0
+1720785,Lalo Ebratt,Person,Lalo Ebratt,1.0
+373944,Angus Stone,Person,Angus & Julia Stone,0.7333333333333333
+995623,Gavin James,Person,Gavin James,1.0
+99,Bing Crosby,Person,Bing Crosby,1.0
+58497,Tech N9ne,Person,Tech N9ne,1.0
+1175507,Oh Wonder,Group,Oh Wonder,1.0
+1360635,Olivia O’Brien,Person,Olivia O'Brien,0.9285714285714286
+1712784,girl in red,Person,girl in red,1.0
+56574,Audioslave,Group,Audioslave,1.0
+1370934,Brett Young,Person,Brett Young,1.0
+1556586,Greeicy,Person,Greeicy,1.0
+1496164,YUNGBLUD,Person,YUNGBLUD,1.0
+1477,Tracy Chapman,Person,Tracy Chapman,1.0
+1271873,Kiiara,Person,Kiiara,1.0
+1145862,Jack & Jack,Group,Jack & Jack,1.0
+12779,Bill Withers,Person,Bill Withers,1.0
+1980524,Surfaces,Group,Surfaces,1.0
+1253380,Lil’ Kleine,Person,Lil Kleine,0.9523809523809524
+1949,Dido,Person,Dido,1.0
+1266982,KSI,Person,KSI,1.0
+269029,Jeezy,Person,Jeezy,1.0
+2126,Tears for Fears,Group,Tears For Fears,0.9333333333333332
+11285,Wolfgang Amadeus Mozart,Person,Wolfgang Amadeus Mozart,1.0
+231,Cyndi Lauper,Person,Cyndi Lauper,1.0
+2047665,Grupo Firme,Group,Grupo Firme,1.0
+375,Will Smith,Person,Will Smith,1.0
+1049603,Jasmine Thompson,Person,Jasmine Thompson,1.0
+1312914,Ruth B.,Person,Ruth B.,1.0
+361,Blur,Group,Blur,1.0
+1389558,Rich Brian,Person,Rich Brian,1.0
+1786,Ella Fitzgerald,Person,Ella Fitzgerald,1.0
+1066704,Alina Baraz,Person,Alina Baraz,1.0
+1167241,Sofía Reyes,Person,Sofía Reyes,1.0
+994546,Jon Pardi,Person,Jon Pardi,1.0
+268788,Jowell & Randy,Group,Jowell & Randy,1.0
+1616,Tina Turner,Person,Tina Turner,1.0
+366,Lenny Kravitz,Person,Lenny Kravitz,1.0
+1492,Genesis,Group,Genesis,1.0
+41306,Sin Bandera,Group,Sin Bandera,1.0
+1441701,Feid,Person,Feid,1.0
+1162500,Ludmilla Dabo,Person,LUDMILLA,0.1904761904761904
+23003,Selena,Person,Selena,1.0
+1596417,Lil Xan,Person,Lil Xan,1.0
+739787,Brantley Gilbert,Person,Brantley Gilbert,1.0
+1024929,Tori Kelly,Person,Tori Kelly,1.0
+2735,ZZ Top,Group,ZZ Top,1.0
+202067,Ramin Djawadi,Person,Ramin Djawadi,1.0
+2944,TLC,Group,TLC,1.0
+1743,Louis Armstrong,Person,Louis Armstrong,1.0
+1126615,Snakehips,Group,Snakehips,1.0
+38040,Natiruts,Group,Natiruts,1.0
+984625,Cigarettes After Sex,Group,Cigarettes After Sex,1.0
+1085653,Oliver Heldens,Person,Oliver Heldens,1.0
+283545,Skepta,Person,Skepta,1.0
+1583680,Neffex,Group,NEFFEX,0.1666666666666666
+309399,Lupe Fiasco,Person,Lupe Fiasco,1.0
+976,Dean Martin,Person,Dean Martin,1.0
+739736,The Head and the Heart,Group,The Head And The Heart,0.9090909090909092
+489870,Lykke Li,Person,Lykke Li,1.0
+654690,Tinie Tempah,Person,Tinie Tempah,1.0
+1291762,Maggie Lindemann,Person,Maggie Lindemann,1.0
+1616649,Luísa Sonza,Person,Luísa Sonza,1.0
+1650772,Capo Plaza,Person,Capo Plaza,1.0
+181386,Lil Jon,Person,Lil Jon,1.0
+16275,Toby Keith,Person,Toby Keith,1.0
+42,Beck,Person,Beck,1.0
+1175935,Lauren Daigle,Person,Lauren Daigle,1.0
+12473,Spice Girls,Group,Spice Girls,1.0
+1101421,ZHU,Person,ZHU,1.0
+311,Cher,Person,Cher,1.0
+178910,Timbaland,Person,Timbaland,1.0
+189913,Juicy J,Person,Juicy J,1.0
+1397042,Pabllo Vittar,Person,Pabllo Vittar,1.0
+1628326,Dynoro,Person,Dynoro,1.0
+1502637,Ghostemane,Person,Ghostemane,1.0
+482,Alice in Chains,Group,Alice In Chains,0.9333333333333332
+396940,Chris Young,Person,Chris Young,1.0
+1244667,Álvaro Soler,Person,Alvaro Soler,0.9166666666666666
+40676,Gustavo Cerati,Person,Gustavo Cerati,1.0
+240192,Salaam Remi,Person,Salaam Remi,1.0
+1464190,Bruno Martini,Person,Bruno Martini,1.0
+577425,IU,Person,IU,1.0
+1135745,Martin Tungevaag,Person,Tungevaag,0.72
+150016,Los Bukis,Group,Los Bukis,1.0
+466530,Kina,Group,Kina,1.0
+915508,Vince Staples,Person,Vince Staples,1.0
+11999,Mary J. Blige,Person,Mary J. Blige,1.0
+50832,Seether,Group,Seether,1.0
+58875,The All‐American Rejects,Group,The All-American Rejects,0.9583333333333334
+443,Andrea Bocelli,Person,Andrea Bocelli,1.0
+1346646,Kris Kross Amsterdam,Group,Kris Kross Amsterdam,1.0
+152260,Max Richter,Person,Max Richter,1.0
+1200384,Leon Bridges,Person,Leon Bridges,1.0
+1277721,Brent Faiyaz,Person,Brent Faiyaz,1.0
+147928,Showtek,Group,Showtek,1.0
+613149,Cash Cash,Group,Cash Cash,1.0
+856920,Timmy Trumpet,Person,Timmy Trumpet,1.0
+40462,Intocable,Group,Intocable,1.0
+1177894,BØRNS,Person,BØRNS,1.0
+823,a‐ha,Group,a-ha,0.75
+771764,AWOLNATION,Group,AWOLNATION,1.0
+380,Deftones,Group,Deftones,1.0
+382866,Camila,Group,Camila,1.0
+1362611,Simone Simone,Person,Simone & Simaria,0.6896551724137931
+1697796,Melim,Group,Melim,1.0
+1748,Otis Redding,Person,Otis Redding,1.0
+1393752,A R I Z O N A,Group,A R I Z O N A,1.0
+1101100,Jacquees,Person,Jacquees,1.0
+1288082,Petit Biscuit,Person,Petit Biscuit,1.0
+2125,Supertramp,Group,Supertramp,1.0
+249,Pixies,Group,Pixies,1.0
+381516,Foals,Group,Foals,1.0
+672447,Emeli Sandé,Person,Emeli Sandé,1.0
+374763,Jake Owen,Person,Jake Owen,1.0
+2504,Wu‐Tang Clan,Group,Wu-Tang Clan,0.9166666666666666
+21961,Death Cab for Cutie,Group,Death Cab for Cutie,1.0
+1033018,Dadju,Person,Dadju,1.0
+1388298,NCT 127,Group,NCT 127,1.0
+1559,Craig David,Person,Craig David,1.0
+1360116,Frenna,Person,Frenna,1.0
+1589829,Gustavo Mioto,Person,Gustavo Mioto,1.0
+92744,A Tribe Called Quest,Group,A Tribe Called Quest,1.0
+953,Counting Crows,Group,Counting Crows,1.0
+1436,Foreigner,Group,Foreigner,1.0
+778570,Grouplove,Group,Grouplove,1.0
+1772646,Dominic Fike,Person,Dominic Fike,1.0
+859384,Cro,Person,Cro,1.0
+502,Dave Matthews Band,Group,Dave Matthews Band,1.0
+32197,Missy Elliott,Person,Missy Elliott,1.0
+1344,Sam Cooke,Person,Sam Cooke,1.0
+9606,Beastie Boys,Group,Beastie Boys,1.0
+1037,Talking Heads,Group,Talking Heads,1.0
+1114671,Kaleo,Group,KALEO,0.2
+1550995,Regard,Person,Regard,1.0
+992129,Gemitaiz,Person,Gemitaiz,1.0
+11669,Ludacris,Person,Ludacris,1.0
+895608,Dustin Lynch,Person,Dustin Lynch,1.0
+1206099,The Score,Group,The Score,1.0
+1104,Megadeth,Group,Megadeth,1.0
+827914,Río Roma,Group,Río Roma,1.0
+132,The Temptations,Group,The Temptations,1.0
+802603,Banda Los Recoditos,Group,Banda Los Recoditos,1.0
+40,Alanis Morissette,Person,Alanis Morissette,1.0
+1219113,Kungs,Person,Kungs,1.0
+53798,Stone Sour,Group,Stone Sour,1.0
+1302355,SCH,Person,SCH,1.0
+2009378,María Becerra,Person,Maria Becerra,0.9230769230769232
+1528,Grateful Dead,Group,Grateful Dead,1.0
+1377277,Two Feet,Person,Two Feet,1.0
+1147225,La Adictiva Banda San José de Mesillas,Group,La Adictiva Banda San José de Mesillas,1.0
+1676788,beabadoobee,Person,beabadoobee,1.0
+769555,Icona Pop,Group,Icona Pop,1.0
+561811,Empire of the Sun,Group,Empire of the Sun,1.0
+763963,Brett Eldredge,Person,Brett Eldredge,1.0
+359,Moby,Person,Moby,1.0
+1283418,MadeinTYO,Person,MadeinTYO,1.0
+1275835,Famous Dex,Person,Famous Dex,1.0
+85714,Gloria Trevi,Person,Gloria Trevi,1.0
+11050,Tom Petty and the Heartbreakers,Group,Tom Petty and the Heartbreakers,1.0
+983726,Ella Eyre,Person,Ella Eyre,1.0
+853091,Lindsey Stirling,Person,Lindsey Stirling,1.0
+480986,ONE OK ROCK,Group,ONE OK ROCK,1.0
+141,Eurythmics,Group,Eurythmics,1.0
+597046,LMFAO,Group,LMFAO,1.0
+1498015,RIN,Person,RIN,1.0
+1165234,Kelsea Ballerini,Person,Kelsea Ballerini,1.0
+115320,Gym Class Heroes,Group,Gym Class Heroes,1.0
+64499,M.I.A.,Person,M.I.A.,1.0
+41061,Los Enanitos Verdes,Group,Los Enanitos Verdes,1.0
+1596237,Ultimo,Person,Ultimo,1.0
+1034075,Disciples,Group,Disciples,1.0
+1167977,KSHMR,Person,KSHMR,1.0
+95067,Darius Rucker,Person,Darius Rucker,1.0
+996953,A Great Big World,Group,A Great Big World,1.0
+32814,Fat Joe,Person,Fat Joe,1.0
+237424,Phoenix,Group,Phoenix,1.0
+971974,KC Rebell,Person,KC Rebell,1.0
+1261070,Roy Woods,Person,Roy Woods,1.0
+1356579,EDEN,Person,EDEN,1.0
+631249,James Blake,Person,James Blake,1.0
+2130,Juan Luis Guerra y 4.40,Group,Juan Luis Guerra 4.40,0.9545454545454546
+1216723,AURORA,Person,AURORA,1.0
+840037,Canserbero,Person,Canserbero,1.0
+838051,Salmo,Person,Salmo,1.0
+1279452,Vintage Culture,Person,Vintage Culture,1.0
+22572,Bunbury,Person,Bunbury,1.0
+59085,Iron & Wine,Person,Iron & Wine,1.0
+527153,BIGBANG,Group,BIGBANG,1.0
+464,No Doubt,Group,No Doubt,1.0
+998,Jamiroquai,Group,Jamiroquai,1.0
+1289687,Digital Farm Animals,Person,Digital Farm Animals,1.0
+743338,WILLOW,Person,WILLOW,1.0
+1755279,Kevin O Chris,Person,MC Kevin o Chris,0.8275862068965517
+1721254,Ben,Person,Ben&Ben,0.6
+532,UB40,Group,UB40,1.0
+1491493,Smokepurpp,Person,Smokepurpp,1.0
+1366936,Official髭男dism,Group,Official HIGE DANdism,0.6857142857142857
+1267070,Burna Boy,Person,Burna Boy,1.0
+1501771,Wallows,Group,Wallows,1.0
+35481,Ricardo Montaner,Person,Ricardo Montaner,1.0
+14342,Laura Pausini,Person,Laura Pausini,1.0
+869252,Thiaguinho,Person,Thiaguinho,1.0
+54861,Kaskade,Person,Kaskade,1.0
+429373,Duke Dumont,Person,Duke Dumont,1.0
+1587139,Eladio Carrión,Person,Eladio Carrion,0.9285714285714286
+798823,Alle Farben,Person,Alle Farben,1.0
+127,James Taylor,Person,James Taylor,1.0
+2351,Brooks & Dunn,Group,Brooks & Dunn,1.0
+431,The Kinks,Group,The Kinks,1.0
+817809,Falling in Reverse,Group,Falling In Reverse,0.9444444444444444
+972925,American Authors,Group,American Authors,1.0
+2107,Leonard Cohen,Person,Leonard Cohen,1.0
+1669173,Micro TDH,Person,Micro TDH,1.0
+2077,Pantera,Group,Pantera,1.0
+1761048,TOMORROW X TOGETHER,Group,TOMORROW X TOGETHER,1.0
+2726,Chicago,Group,Chicago,1.0
