@@ -1,2 +1,2 @@
-data/artist_songs
-data/crawl_data
+data
+.*.pyc
