@@ -3,7 +3,6 @@ import pandas as pd
 import networkx as nx
 import numpy as np
 from tqdm import tqdm
-from spotify_id import get_spotify_id
 import argparse
 from glob import glob
 
