@@ -2,15 +2,30 @@ import pandas as pd
 import networkx as nx
 import numpy as np
 from tqdm.auto import tqdm
+import os
+from collections import Counter
 
-def musicians():
-    print('reading in data...')
+def musicians(n_bins):
     base = f'./data/musician-graph'
-    nodes = pd.read_csv(f'{base}/nodes.csv')
-    edges = pd.read_csv(f'{base}/edges.csv')
+    if os.path.exists(f'{base}/graph_{n_bins}.gml'): return
+    
+    print('reading in data...')
+    
+    nodes = pd.read_csv(f'{base}/nodes_{n_bins}.csv')
+    edges = pd.read_csv(f'{base}/edges_{n_bins}.csv')
 
     G = nx.DiGraph()
-    G.add_edges_from([[a1,a2]for id1,a1,id2,a2,sid,s in tqdm(edges.values,desc='adding edges to graph..')])
+    pair_counts = [(n1,n2,int(w))
+                        for n1, feats in edges.groupby('name_1')
+                    for n2,w in Counter(feats.name_2.values).items()]    
+    # for n1, feats in edges.groupby('name_1'):
+    #     print(n1)
+    #     print(feats)
+    #     for n2,w in Counter(feats.name_2.values).items():
+    #         print()
+    # return
+    G.add_weighted_edges_from(pair_counts)
+    # G.add_edges_from([[a1,a2]for id1,a1,id2,a2,sid,s in tqdm(edges.values,desc='adding edges to graph..')])
 
 
     # add extra features from spotify!
@@ -28,13 +43,15 @@ def musicians():
     ec = nx.eigenvector_centrality(G)
     nx.set_node_attributes(G,ec,'eigenvector')
 
-    nx.write_gml(G,f'{base}/graph.gml')
+    nx.write_gml(G,f'{base}/graph_{n_bins}.gml')
 #     nx.write_gexf(G,f'{base}/test.gexf')
 
 def labels(prefix=''):
     if prefix: prefix += '_'
     print('reading in data...')
     base = f'./data/label-graph'
+    if os.path.exists(f'{base}/graph.gml'): return
+    
     nodes = pd.read_csv(f'{base}/nodes.csv')
     edges = pd.read_csv(f'{base}/edges.csv')
 

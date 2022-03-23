@@ -14,7 +14,7 @@ def get_features(id):
     base = f'./data/artist_songs/{id}'
     if not os.path.exists(base): 
         # print('gonna make ')
-        os.mkdir(base)
+        os.makedirs(base)
     
     artist,artist_credit_name,release_group,release,release_label,label = Tables('artist','artist_credit_name','release_group','release','release_label','label')
 

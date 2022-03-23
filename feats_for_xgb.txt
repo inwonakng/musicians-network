@@ -1,0 +1,8 @@
+0	Followers	i
+1	Network_Rank	i
+2	In_Edges	i
+3	Out_Edges	i
+4	Num_Release	i
+5	First_Release	i
+6	Last_Release	i
+7	Career length	i
