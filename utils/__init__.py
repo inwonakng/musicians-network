@@ -14,6 +14,7 @@ import os
 from itertools import combinations
 import networkx as nx
 from ast import literal_eval
+import numpy as np
 '''
 THIS FUNCTION SHOULD ONLY BE RAN AFTER THE CRAWLER HAS CONVERGED
 '''
@@ -112,7 +113,7 @@ class MusicDataLoader:
         self.music_graph(n_release_bins)
         cachedir = f'data/feature_corel_{n_release_bins}.csv'
         if not os.path.exists(cachedir):
-            mus_nodes = pd.read_csv(f'./data/musician-graph/nodes_{n_release_bins}.csv',
+            mus_nodes = pd.read_csv(f'data/musician-graph/nodes_{n_release_bins}.csv',
                                     converters={'genres':literal_eval}
                                     )
             # mus_edges = pd.read_csv('./data/musician-graph/edges.csv')
@@ -121,10 +122,67 @@ class MusicDataLoader:
 
             mus_G = nx.read_gml(f'data/musician-graph/graph_{n_release_bins}.gml')
             
+            
+            pops = nx.get_node_attributes(mus_G,'popularity')
+            fols = nx.get_node_attributes(mus_G,'followers')
+            
+            maxfol = np.array(list(fols.values())).max()
+            maxrel = mus_nodes.num_release.max()
+            stat_vals = []
+
+            for node in mus_nodes.name.values:
+                neigh_pops = []
+                neigh_fols = []
+                neigh_rels = []
+
+                for neigh in mus_G.neighbors(node):
+                    if neigh in pops:
+                        neigh_pops.append(pops[neigh])
+                    if neigh in fols:
+                        neigh_fols.append(fols[neigh])
+                    if neigh in mus_nodes.name.values:
+                        neigh_rels.append(mus_nodes[mus_nodes.name == neigh].num_release.values[0])
+                        
+                        
+                neigh_pops = np.array(neigh_pops)
+                neigh_fols = np.array(neigh_fols)
+                neigh_rels = np.array(neigh_rels)
+                
+                if len(neigh_pops) == 0:
+                    neigh_pops = np.array([0])
+                    
+                if len(neigh_fols) == 0:
+                    neigh_fols = np.array([0])
+                    
+                if len(neigh_rels) == 0:
+                    neigh_rels = np.array([0])
+                    
+
+                stat_vals.append([
+                    neigh_pops.mean(), 
+                    neigh_pops.std(), 
+                    neigh_pops.var(),
+                    neigh_pops.max(),
+                    neigh_fols.mean(), 
+                    neigh_fols.std(), 
+                    neigh_fols.var(),
+                    neigh_fols.max(),
+                    neigh_rels.mean(),
+                    neigh_rels.std(),
+                    neigh_rels.var(),
+                    neigh_rels.max(),
+                ])
+            
+                            
+            
             mus_nodes['network_rank'] = mus_nodes.name.map(nx.get_node_attributes(mus_G,'eigenvector'))
             mus_nodes['in_edges'] = mus_nodes.name.map(lambda n: len(mus_G.in_edges(n)))
             mus_nodes['out_edges'] = mus_nodes.name.map(lambda n: len(mus_G.out_edges(n)))
-
+            mus_nodes[[
+                'pop_mean','pop_std','pop_var','pop_max',
+                'fol_mean','fol_std','fol_var','fol_max',
+                'rel_mean','rel_std','rel_var','rel_max',]] = stat_vals
+            
             mus_nodes = mus_nodes[(~mus_nodes.followers.isnull()) & (~mus_nodes.popularity.isnull())]
             mus_nodes.to_csv(cachedir,index=False)
             # lab_G = nx.read_gml('data/label-graph/test.gml')

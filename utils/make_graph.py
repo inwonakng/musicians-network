@@ -24,6 +24,7 @@ def musicians(n_bins):
     #     for n2,w in Counter(feats.name_2.values).items():
     #         print()
     # return
+    G.add_nodes_from(nodes.name)
     G.add_weighted_edges_from(pair_counts)
     # G.add_edges_from([[a1,a2]for id1,a1,id2,a2,sid,s in tqdm(edges.values,desc='adding edges to graph..')])
 
